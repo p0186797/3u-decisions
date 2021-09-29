@@ -36,7 +36,7 @@ Create a python file called **decisions2.py** and upload it to this repo. At the
     no
     
 ---
-Create a python file called **decisions3.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. Write a program that reads a year from the user and outputs the Chinese zodiac animal assigned to that year. The Chinese zodiac repeats every 12 years. 
+Create a python file called **decisions3.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. Write a program that reads a year from the user and outputs the Chinese zodiac animal assigned to that year. (See lesson handout for the table of animals.) The Chinese zodiac repeats every 12 years. 
 
 &nbsp;&nbsp; **Sample Input**
 
@@ -55,7 +55,6 @@ Create a python file called **decisions3.py** and upload it to this repo. At the
     Dog
     
 ---
-
 Create a python file called **decisions4.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 
 
 When you work more than 44 hours a week in Ontario you are paid overtime. Overtime pay is 1.5 times your hourly pay.
@@ -75,5 +74,25 @@ Write a program that reads a number of hours worked in a week and an hourly pay 
     $1058.75
     
 ---
+Create a python file called **decisions5.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 
 
+Positions on a chess board are identified by a letter and a number. The letter identifies the column, while the number identifies the row. 
 
+Write  program that reads a position from the user and outputs the colour of the square. For example, if the user enters a1 then the program should report that the colour is black. Hint: first check the letter, then use modular arithmetic to check the row.
+
+&nbsp;&nbsp; **Sample Input**
+
+    a1
+
+&nbsp;&nbsp; **Sample Output**
+
+    black
+
+&nbsp;&nbsp; **Sample Input**
+
+    e4
+
+&nbsp;&nbsp; **Sample Output**
+
+    white 
+---
