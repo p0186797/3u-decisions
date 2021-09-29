@@ -3,7 +3,7 @@
 Decisions
 
 ---
-Create a python file called **decisions1.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 3.	Write a program that takes in three inputs to represent three sides of a triangle from least to greatest and outputs if the triangle is a right angle triangle.
+Create a python file called **decisions1.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. Write a program that takes in three inputs to represent three sides of a triangle from least to greatest and outputs if the triangle is a right angle triangle.
 
 
 &nbsp;&nbsp; **Sample Input**
