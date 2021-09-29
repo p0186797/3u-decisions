@@ -36,7 +36,29 @@ Create a python file called **decisions2.py** and upload it to this repo. At the
     no
     
 ---
-Create a python file called **decisions3.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 8.	When you work more than 44 hours a week in Ontario you are paid overtime. Overtime pay is 1.5 times your hourly pay.
+Create a python file called **decisions3.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. Write a program that reads a year from the user and outputs the Chinese zodiac animal assigned to that year. The Chinese zodiac repeats every 12 years. 
+
+&nbsp;&nbsp; **Sample Input**
+
+    1997
+
+&nbsp;&nbsp; **Sample Output**
+
+    Ox
+
+&nbsp;&nbsp; **Sample Input**
+
+    2030
+
+&nbsp;&nbsp; **Sample Output**
+
+    Dog
+    
+---
+
+Create a python file called **decisions4.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 
+
+When you work more than 44 hours a week in Ontario you are paid overtime. Overtime pay is 1.5 times your hourly pay.
 
 For example, an employee who has a regular rate of $17.00 an hour will have an overtime rate of $25.50 an hour 
 (17 × 1.5 = 25.50). The employee must therefore be paid at a rate of $25.50 an hour for every hour worked in excess of 44 in a week.
@@ -45,10 +67,13 @@ Write a program that reads a number of hours worked in a week and an hourly pay 
 
 &nbsp;&nbsp; **Sample Input**
 
-    011
+    55
+    17.50
 
 &nbsp;&nbsp; **Sample Output**
 
-    no
+    $1058.75
     
 ---
+
+
